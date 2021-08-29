@@ -1,0 +1,1 @@
+Implemented a GD alogirthm on the dataset with 20 datapoints created with number of epochs as 1000 and learning rate as 0.05 and we get to see that the error in batch gd was minimum(around 0.05511) followed by mini batch of size 4 gd (0.05518) followed by Sgd (0.056) 
